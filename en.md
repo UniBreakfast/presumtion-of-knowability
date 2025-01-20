@@ -1,5 +1,7 @@
 ## ▶ ENGLISH ◀ &nbsp; &nbsp; [▶ RUSSIAN ◀](ru.md) &nbsp; &nbsp; [▶ UKRAINIAN ◀](uk.md)
 
+---
+
 The presumption of knowability — the belief that the world and all phenomena within it can, in principle, be understood — is a cornerstone of scientific inquiry. This foundational assumption has propelled humanity's understanding of the cosmos, the natural world, and the complexities of life itself. Similarly, in the domain of programming, the presumption that any aspect of a programming language or code execution can be understood is critical for mastering this skill. Both assumptions foster curiosity, resilience, and systematic exploration, driving progress in science and technology alike.
 
 ### The Scientific Pursuit and Knowability
